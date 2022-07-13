@@ -11,3 +11,4 @@ Each level is inspired by a random Wikipedia article. Here’s the list:
 3. https://en.wikipedia.org/wiki/John_Parker_(Jacobite)
 4. https://en.wikipedia.org/wiki/Malcolm,_Nebraska
 5. https://en.wikipedia.org/wiki/Aberdeen_Group
+6. https://en.wikipedia.org/wiki/1982_NCAA_Division_I_Women%27s_Tennis_Championships
