@@ -1,5 +1,6 @@
 # SPDX-FileNotice: 🅭🄍1.0 This file was dedicated to the public domain using the CC0 1.0 Universal Public Domain Dedication <https://creativecommons.org/publicdomain/zero/1.0/>.
 # SPDX-FileContributor: Jason Yundt <swagfortress@gmail.com> (2021)
+# SPDX-FileContributor: Clayton14 <claytoneasley77@gmail.com> (2022)
 # SPDX-FileType: SOURCE
 extends Node2D
 
@@ -7,7 +8,7 @@ extends Node2D
 signal level_finished_balls_caught
 const Ball: PackedScene = preload("res://scenes_and_scripts/ball.tscn")
 const BALL_SPEED_FACTOR := 1.04  # Unit: 1
-const BALL_MAX_ANGLE := deg2rad(85)  # Unit: radians clockwise from north
+const BALL_MAX_ANGLE := deg2rad(50)  # Unit: radians clockwise from north
 const MAX_SPEED := 500  # Unit: px/sec
 const MOUSE_CONTROL_DISABLING_ACTIONS := ["ui_left", "ui_right"]
 onready var held_balls: Array
