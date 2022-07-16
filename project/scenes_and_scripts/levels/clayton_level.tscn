@@ -69,56 +69,89 @@ position = Vector2( 768, 320 )
 [node name="BigBrick17" parent="." index="20" instance=ExtResource( 3 )]
 position = Vector2( 768, 384 )
 
-[node name="BigBrick4" parent="." index="21" instance=ExtResource( 3 )]
+[node name="BigBrick38" parent="." index="21" instance=ExtResource( 3 )]
+position = Vector2( 768, 440 )
+
+[node name="BigBrick4" parent="." index="22" instance=ExtResource( 3 )]
 position = Vector2( 256, 192 )
 
-[node name="BigBrick12" parent="." index="22" instance=ExtResource( 3 )]
+[node name="BigBrick12" parent="." index="23" instance=ExtResource( 3 )]
 position = Vector2( 192, 256 )
 
-[node name="BigBrick23" parent="." index="23" instance=ExtResource( 3 )]
+[node name="BigBrick23" parent="." index="24" instance=ExtResource( 3 )]
 position = Vector2( 192, 320 )
 
-[node name="BigBrick24" parent="." index="24" instance=ExtResource( 3 )]
+[node name="BigBrick24" parent="." index="25" instance=ExtResource( 3 )]
 position = Vector2( 256, 320 )
 
-[node name="BigBrick33" parent="." index="25" instance=ExtResource( 3 )]
+[node name="BigBrick33" parent="." index="26" instance=ExtResource( 3 )]
 position = Vector2( 256, 384 )
 
-[node name="BigBrick36" parent="." index="26" instance=ExtResource( 3 )]
+[node name="BigBrick41" parent="." index="27" instance=ExtResource( 3 )]
+position = Vector2( 320, 384 )
+
+[node name="BigBrick42" parent="." index="28" instance=ExtResource( 3 )]
+position = Vector2( 384, 384 )
+
+[node name="BigBrick43" parent="." index="29" instance=ExtResource( 3 )]
+position = Vector2( 448, 384 )
+
+[node name="BigBrick44" parent="." index="30" instance=ExtResource( 3 )]
+position = Vector2( 512, 384 )
+
+[node name="BigBrick45" parent="." index="31" instance=ExtResource( 3 )]
+position = Vector2( 576, 384 )
+
+[node name="BigBrick36" parent="." index="32" instance=ExtResource( 3 )]
 position = Vector2( 256, 448 )
 
-[node name="BigBrick25" parent="." index="27" instance=ExtResource( 3 )]
+[node name="BigBrick39" parent="." index="33" instance=ExtResource( 3 )]
+position = Vector2( 320, 512 )
+
+[node name="BigBrick46" parent="." index="34" instance=ExtResource( 3 )]
+position = Vector2( 384, 512 )
+
+[node name="BigBrick25" parent="." index="35" instance=ExtResource( 3 )]
 position = Vector2( 320, 320 )
 
-[node name="BigBrick26" parent="." index="28" instance=ExtResource( 3 )]
+[node name="BigBrick26" parent="." index="36" instance=ExtResource( 3 )]
 position = Vector2( 384, 320 )
 
-[node name="BigBrick27" parent="." index="29" instance=ExtResource( 3 )]
+[node name="BigBrick27" parent="." index="37" instance=ExtResource( 3 )]
 position = Vector2( 448, 320 )
 
-[node name="BigBrick28" parent="." index="30" instance=ExtResource( 3 )]
+[node name="BigBrick28" parent="." index="38" instance=ExtResource( 3 )]
 position = Vector2( 512, 320 )
 
-[node name="BigBrick29" parent="." index="31" instance=ExtResource( 3 )]
+[node name="BigBrick29" parent="." index="39" instance=ExtResource( 3 )]
 position = Vector2( 576, 320 )
 
-[node name="BigBrick30" parent="." index="32" instance=ExtResource( 3 )]
+[node name="BigBrick30" parent="." index="40" instance=ExtResource( 3 )]
 position = Vector2( 640, 320 )
 
-[node name="BigBrick34" parent="." index="33" instance=ExtResource( 3 )]
+[node name="BigBrick34" parent="." index="41" instance=ExtResource( 3 )]
 position = Vector2( 640, 448 )
 
-[node name="BigBrick35" parent="." index="34" instance=ExtResource( 3 )]
+[node name="BigBrick40" parent="." index="42" instance=ExtResource( 3 )]
+position = Vector2( 576, 512 )
+
+[node name="BigBrick47" parent="." index="43" instance=ExtResource( 3 )]
+position = Vector2( 512, 512 )
+
+[node name="BigBrick35" parent="." index="44" instance=ExtResource( 3 )]
 position = Vector2( 640, 384 )
 
-[node name="BigBrick31" parent="." index="35" instance=ExtResource( 3 )]
+[node name="BigBrick31" parent="." index="45" instance=ExtResource( 3 )]
 position = Vector2( 704, 320 )
 
-[node name="BigBrick32" parent="." index="36" instance=ExtResource( 3 )]
+[node name="BigBrick32" parent="." index="46" instance=ExtResource( 3 )]
 position = Vector2( 704, 320 )
 
-[node name="BigBrick13" parent="." index="37" instance=ExtResource( 3 )]
+[node name="BigBrick13" parent="." index="47" instance=ExtResource( 3 )]
 position = Vector2( 128, 320 )
 
-[node name="BigBrick14" parent="." index="38" instance=ExtResource( 3 )]
+[node name="BigBrick14" parent="." index="48" instance=ExtResource( 3 )]
 position = Vector2( 128, 384 )
+
+[node name="BigBrick37" parent="." index="49" instance=ExtResource( 3 )]
+position = Vector2( 128, 448 )
