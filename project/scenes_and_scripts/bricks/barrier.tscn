@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scenes_and_scripts/bricks/big_brick.tscn" type="PackedScene" id=2]
+
+[node name="Barrier" type="Node2D"]
+modulate = Color( 1, 0.0509804, 0.0509804, 1 )
+
+[node name="BigBrick" parent="." instance=ExtResource( 2 )]
+position = Vector2( 200, 88 )
+
+[node name="BigBrick2" parent="." instance=ExtResource( 2 )]
+position = Vector2( 8, 88 )
+
+[node name="BigBrick3" parent="." instance=ExtResource( 2 )]
+position = Vector2( 72, 24 )
+
+[node name="BigBrick4" parent="." instance=ExtResource( 2 )]
+position = Vector2( 136, 24 )
