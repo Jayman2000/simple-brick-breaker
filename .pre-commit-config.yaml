@@ -55,6 +55,11 @@ repos:
         hooks:
             -
                 id: assert_contains_regex
+                # These two .spdx-meta files are very unique. It doesn’t make
+                # sense to use regex to validate them.
+                # yamllint disable rule:line-length
+                exclude: '^LICENSES/CC-BY-4\.0\.txt\.spdx-meta$|^LEGAL TOOLS/CC0-1\.0\.txt\.spdx-meta$'
+                # yamllint enable
                 args:
                     - --companion-suffix
                     - .spdx-meta
