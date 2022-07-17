@@ -71,5 +71,20 @@ shape = SubResource( 1 )
 process_mode = 0
 wait_time = 2.5
 
+[node name="KeyboardControlsExplanation" type="Label" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+text = "Keyboard Controls:
+TODO"
+valign = 2
+
+[node name="MouseControlsExplanation2" type="Label" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+text = "Mouse Controls:
+TODO"
+align = 2
+valign = 2
+
 [connection signal="body_entered" from="Rotator2/Goal" to="." method="_on_Goal_body_entered"]
 [connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
