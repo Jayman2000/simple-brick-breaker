@@ -15,6 +15,7 @@ __meta__ = {
 SPDX-FileNotice: 🅭🄍1.0 This file was dedicated to the public domain using the CC0 1.0 Universal Public Domain Dedication <https://creativecommons.org/publicdomain/zero/1.0/>.
 SPDX-FileContributor: Jason Yundt <swagfortress@gmail.com> (2021)
 SPDX-FileContributor: Lauren Hodgman <lnhodgman@verizon.net> (2022)
+SPDX-FileContributor: Emily Gould <emilygould738@gmail.com> (2022)
 SPDX-FileType: OTHER
 "
 }
@@ -76,7 +77,8 @@ wait_time = 2.5
 anchor_right = 1.0
 anchor_bottom = 1.0
 text = "Keyboard Controls:
-TODO"
+Press left and right arrow keys to move paddle.
+Press spacebar to launch ball."
 valign = 2
 
 [node name="MouseControlsExplanation2" type="Label" parent="."]
